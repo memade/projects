@@ -34,3 +34,6 @@
 [submodule "winui"]
 	path = winui
 	url = git@github.com:memade/winui.git
+[submodule "Mir3"]
+	path = Mir3
+	url = git@github.com:memade/Mir3.git
