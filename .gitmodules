@@ -1,0 +1,36 @@
+[submodule "bridge"]
+	path = bridge
+	url = git@github.com:memade/bridge.git
+[submodule "cdrplugin"]
+	path = cdrplugin
+	url = git@github.com:memade/cdrplugin.git
+[submodule "cppengine"]
+	path = cppengine
+	url = git@github.com:memade/cppengine.git
+[submodule "hacker"]
+	path = hacker
+	url = git@github.com:memade/hacker.git
+[submodule "libcurlpp"]
+	path = libcurlpp
+	url = git@github.com:memade/libcurlpp.git
+[submodule "libuvpp"]
+	path = libuvpp
+	url = git@github.com:memade/libuvpp.git
+[submodule "pchacker"]
+	path = pchacker
+	url = git@github.com:memade/pchacker.git
+[submodule "peload"]
+	path = peload
+	url = git@github.com:memade/peload.git
+[submodule "physical"]
+	path = physical
+	url = git@github.com:memade/physical.git
+[submodule "proxy"]
+	path = proxy
+	url = git@github.com:memade/proxy.git
+[submodule "uiframework"]
+	path = uiframework
+	url = git@github.com:memade/uiframework.git
+[submodule "winui"]
+	path = winui
+	url = git@github.com:memade/winui.git
